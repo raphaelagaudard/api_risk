@@ -1,4 +1,4 @@
-# API para analise de risco de faude
+# API para analise de risco de fraude
 
 ## Table of contents
 * [Info](#info)

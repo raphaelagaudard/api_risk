@@ -7,7 +7,7 @@
 * [Run](#run)
 
 ## Info
-O projeto é uma **api** que que avalia uma transação de um e-commerce e devolve um *score* de 0 a 100 de risco, sendo 0 (sem indícios de fraude) e 100 (com máximo risco de fraude). 
+O projeto é uma **api** que avalia uma transação de um e-commerce e devolve um *score* de 0 a 100 de risco, sendo 0 (sem indícios de fraude) e 100 (com máximo risco de fraude). 
 A api tem um **endpoint** que recebe via **POST** e como resultado mostra o ID de transação, nome e o score de risco do cliente.
 
 ## Método de avaliação:

@@ -2,7 +2,7 @@
 
 ## Conteudos
 * [Info](#info)
-* [Technologia](#technologia)
+* [Tecnologia](#technologia)
 * [Método de avaliação](#Método-de-avaliação)
 * [Run](#run)
 
@@ -17,7 +17,7 @@ A api tem um **endpoint** que recebe via **POST** e como resultado mostra o ID d
 * Nome da pessoa X Nome da pessoa no cartão de crédito (**Card name**)
 * Usuário menor de 18 anos
 	
-## Technologia
+## Tecnologia
 
 * Python 3
 
